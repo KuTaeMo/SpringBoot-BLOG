@@ -2,8 +2,12 @@
 
 ## 의존성
 - Spring Web
-- ...
-- ...
+- Spring Boot DevTools
+- Spring Security
+- Spring Data JPA
+- Lombok
+- MySQL Driver
+- OAuth2 Client
 
 ## DB 설정
 
